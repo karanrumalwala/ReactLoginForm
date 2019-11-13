@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactLoginForm/static/css/main.25f84ef4.chunk.css",
+    "main.js": "/ReactLoginForm/static/js/main.326792fa.chunk.js",
+    "main.js.map": "/ReactLoginForm/static/js/main.326792fa.chunk.js.map",
+    "runtime-main.js": "/ReactLoginForm/static/js/runtime-main.ef882c00.js",
+    "runtime-main.js.map": "/ReactLoginForm/static/js/runtime-main.ef882c00.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/ReactLoginForm/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.f2b43f99.chunk.js": "/ReactLoginForm/static/js/2.f2b43f99.chunk.js",
+    "static/js/2.f2b43f99.chunk.js.map": "/ReactLoginForm/static/js/2.f2b43f99.chunk.js.map",
+    "index.html": "/ReactLoginForm/index.html",
+    "precache-manifest.799bb49335bacc1a919822afdf98b5d4.js": "/ReactLoginForm/precache-manifest.799bb49335bacc1a919822afdf98b5d4.js",
+    "service-worker.js": "/ReactLoginForm/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/ReactLoginForm/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.25f84ef4.chunk.css.map": "/ReactLoginForm/static/css/main.25f84ef4.chunk.css.map",
+    "static/media/login.svg": "/ReactLoginForm/static/media/login.8fe37a85.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef882c00.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.f2b43f99.chunk.js",
+    "static/css/main.25f84ef4.chunk.css",
+    "static/js/main.326792fa.chunk.js"
+  ]
+}
